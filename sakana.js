@@ -44,8 +44,8 @@ const Sakana = (_=>{
 
     // 音效
     const Voices = {
-        chisato: new Audio('jinitaimei.mp3'),
-        takina: new Audio('niganma.mp3'),
+        chisato: new Audio('niganma.mp3'),
+        takina: new Audio('jinitaimei.mp3'),
 
         isMute: true
     };
